@@ -1,4 +1,3 @@
-````markdown
 # 🧠 MNIST 手写数字识别
 
 <div align="center">
@@ -161,4 +160,3 @@ CUDA（推荐）
 <div align="center">
   Made with ❤️ and PyTorch
 </div>
-````
